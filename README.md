@@ -9,5 +9,5 @@
 ### Quality Control Intern at Lisega India Pvt. Ltd. (June 2023 - July 2023)
 - Developed test plans for pipeline support products.
 - Increased production efficiency by 15%.
-  [Certificate]
+  [Certificate](https://github.com/Reet521/Work-EX/blob/main/20230905100506.pdf)
 
