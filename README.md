@@ -10,4 +10,9 @@
 - Developed test plans for pipeline support products.
 - Increased production efficiency by 15%.
   [Certificate](https://github.com/Reet521/Work-EX/blob/main/20230905100506.pdf)
+### Summer Trainee , DVC
+- Contributed to process optimization by identifying opportunities to improve energy efficiency and operational effectiveness.
+- Participated in the safety drills and strictly adhered to the safety protocols to ensure a safe working environment.
+  [Certificate]( 
+ 
 
